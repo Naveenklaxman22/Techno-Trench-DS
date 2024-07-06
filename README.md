@@ -1,2 +1,2 @@
-# Techno-Trench-DS
+# Techno-Trench-DS-Tasks
 Iris Flower Classification:
