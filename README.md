@@ -2,3 +2,5 @@
 Iris Flower Classification
 
 Customer Segmentation Analysis
+
+Churn Prediction - Logistic Regression Algorithms
